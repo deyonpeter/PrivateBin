@@ -1,4 +1,4 @@
-<?php
+m<?php
 /**
  * Configuration file for PHP Coding Standards Fixer (php-cs-fixer).
  *
@@ -21,4 +21,4 @@ return Symfony\CS\Config\Config::create()
               'spaces_cast', 'ternary_spaces'])
     ->finder($finder)
 ;
-\\moye moye
+\\moyem moyea!!
