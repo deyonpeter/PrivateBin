@@ -21,3 +21,4 @@ return Symfony\CS\Config\Config::create()
               'spaces_cast', 'ternary_spaces'])
     ->finder($finder)
 ;
+\\haiha
